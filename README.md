@@ -69,9 +69,6 @@ npm run dev
 Usage
 After starting the development server, open your web browser and navigate to http://localhost:3000 to view the dashboard. Explore the various sections to manage and visualize your data.
 
-File Structure
-plaintext
-Copy code
 react-dash
 ├── public
 ├── src
@@ -90,6 +87,8 @@ react-dash
 ├── package.json
 ├── tailwind.config.js
 └── vite.config.js
+
+
 Contributing
 Contributions are welcome! If you have suggestions for improving the dashboard, please follow these steps:
 
